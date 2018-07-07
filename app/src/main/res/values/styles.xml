@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/login_button_red</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">@android:color/white</item>
+        <item name="colorControlHighlight">@color/light_grey</item>
+        <item name="android:textColorHint">@color/light_grey</item>
+        <item name="android:textColorHighlight">@color/light_grey</item>
+
+
+    </style>
+
+    <!-- Login button theme. -->
+    <style name="LoginButton" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorButtonNormal">@color/light_grey</item>
+        <item name="colorAccent">@color/login_button_red</item>
+    </style>
+
+</resources>

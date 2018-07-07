@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="no_account_string">No account yet? Create one</string>
+    <string name="valid_login_toast">SUCCESS!!!</string>
+    <string name="invalid_login_toast">Incorrect Email or Password</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Password</string>
+    <string name="login_string">LOGIN</string>
+    <string name="application_logo_description">Application logo</string>
+    <string name="know_your_pass_string">Now we know your password!</string>
+
+</resources>
